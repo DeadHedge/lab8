@@ -1,0 +1,26 @@
+#cartTotal {
+  position: fixed;
+  top: 100px;
+  left: 200px;
+  width: 300;
+  height: 300;
+/*   border: 20px solid pink; */
+
+}
+.itemDiv {
+  border: 1px solid black;
+  width: 150px;
+  height: 100px;
+}
+
+.itemDiv input{
+  display: inline-block;
+  float: left;
+  margin-left: 10px;
+}
+
+.itemDiv p{
+  padding: 0px;
+  margin: 10px 10px;
+
+}
